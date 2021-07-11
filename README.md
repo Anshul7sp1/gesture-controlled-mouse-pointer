@@ -13,3 +13,8 @@ Here's how to use
 2. Tap the fingers togather to emulate a left-click.
 3. Tap and hold (without moving your hand) to emulate right-click.
 4. Tap and drag to select or emulate drag action.
+
+
+
+https://user-images.githubusercontent.com/52310272/125199736-4fa9fc00-e285-11eb-978e-8e0de6ec480c.mp4
+
